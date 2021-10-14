@@ -55,4 +55,8 @@ Ruby 1.8.5
 
 
 # Contributors
+1. Shrejal Singh
+2. Aaquib Ali
+3. Ekta Arora
+4. Ruthvik
 
